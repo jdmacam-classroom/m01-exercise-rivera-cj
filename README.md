@@ -1,9 +1,10 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/RUQKjpdt)
 # COURSE CODE - EXER CODE
-`Author`: Surname, Given Name(s) MI  
-`Section`: BSXX10XA
+`Author`: Rivera, Catherine Janna D. 
+`Section`: BSIT 301A
 
 ## About
-Put here the description and general instructions of the exercise.
+Using Android Studio and Java as programming language, we are tasked to develop a random fact or quote app.
 
 ## Files Structure
 ```
@@ -16,7 +17,7 @@ main-branch
 ```
 
 ## Challenges Encountered
-Narrate all the challenges you've encountered during development
+I got a little bit confused when it comes to the code.
 
 ## Key Takeaways
-List down your valuable learnings from doing this task.
+I learned how to use the android studio since it's my first time using it.
